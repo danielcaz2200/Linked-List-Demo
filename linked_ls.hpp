@@ -3,7 +3,7 @@
 #include <iostream>
 #include <stdexcept> // std::out_of_range
 #include <string>
-#include <fstream> // ofstream
+#include <fstream> // std::ofstream
 
 // Operator declarations
 
